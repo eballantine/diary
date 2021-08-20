@@ -1,0 +1,114 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/eb/Projects/week4/diary/spec/features/add_entry_spec.rb": {
+        "lines": [
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/eb/Projects/week4/diary/spec/features/edit_entry_spec.rb": {
+        "lines": [
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          null,
+          null
+        ]
+      },
+      "/Users/eb/Projects/week4/diary/spec/features/list_of_entries_spec.rb": {
+        "lines": [
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/eb/Projects/week4/diary/spec/features/read_an_entry_spec.rb": {
+        "lines": [
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/eb/Projects/week4/diary/spec/features/web_helpers_spec.rb": {
+        "lines": [
+          1,
+          3,
+          3,
+          3,
+          3,
+          3,
+          null
+        ]
+      },
+      "/Users/eb/Projects/week4/diary/spec/unit/entry_spec.rb": {
+        "lines": [
+          null,
+          null,
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          0,
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    "timestamp": 1629457042
+  }
+}

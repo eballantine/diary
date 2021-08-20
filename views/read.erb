@@ -1,0 +1,12 @@
+<h1>My Diary</h1>
+
+<h2><%= @entry.title%></h2>
+<p><%= @entry.content%></p>
+
+<form action='/' method='GET'>
+  <input type="submit" value="Home">
+</form>
+
+<form action='/entries' method='GET'>
+  <input type="submit" value="Back to Entries">
+</form>
